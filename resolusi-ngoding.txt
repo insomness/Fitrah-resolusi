@@ -2,6 +2,13 @@ Resolusi Ngoding :
 - JavaScript 
   * Node.js
   * React Native
+  * vue
+  * React
+  * Angular
 - PHP
 - Python
-- C++
+- C
+- Java
+- Dart
+ * Flutter
+
