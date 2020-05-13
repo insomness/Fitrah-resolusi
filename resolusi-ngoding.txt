@@ -1,5 +1,7 @@
 Resolusi Ngoding : 
 - JavaScript 
   * Node.js
+  * React Native
 - PHP
 - Python
+- C++
