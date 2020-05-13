@@ -1,5 +1,12 @@
 Resolusi Ngoding : 
 - JavaScript 
   * Node.js
+  * vue
+  * React
+  * Angular
 - PHP
 - Python
+- C
+- Java
+- Dart
+ * Flutter
