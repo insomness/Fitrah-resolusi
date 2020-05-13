@@ -1,0 +1,4 @@
+Resolusi Ngoding : 
+- JavaScript 
+- PHP
+- Python
