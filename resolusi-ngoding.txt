@@ -1,6 +1,7 @@
 Resolusi Ngoding : 
 - JavaScript 
   * Node.js
+  * React Native
   * vue
   * React
   * Angular
@@ -10,3 +11,4 @@ Resolusi Ngoding :
 - Java
 - Dart
  * Flutter
+
